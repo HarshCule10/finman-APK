@@ -16,4 +16,5 @@ Extra things i wanna say->
 1. This app was built using flutter, The codebase link is (https://github.com/HarshCule10/finman.git) , I built it in Flutter because i have worked for multiple freelancing clients in this technology and its easier for me to showcase my creativity, Given, I have some exp with React Native, Changing a framework shouldnt be a issue.
 2. I have taken a broad inspiration from the figma design rather than following it rigorously.
 
+Screemshot -> https://drive.google.com/drive/folders/1BvJooXjQCduFRS0pSxIsir0rfpmaw7Ak?usp=drive_link
 Thank you for reading this!.
