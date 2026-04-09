@@ -17,4 +17,6 @@ Extra things i wanna say->
 2. I have taken a broad inspiration from the figma design rather than following it rigorously.
 
 Screenshots -> https://drive.google.com/drive/folders/1BvJooXjQCduFRS0pSxIsir0rfpmaw7Ak?usp=drive_link
+
+I also want to attach my notion, A gallery of my pastworks > https://www.notion.so/Past-Works-Gallery-1-33c3df4dab9c808caa6ddf60b1e611e6?source=copy_link
 Thank you for reading this!.
